@@ -1,1 +1,1 @@
-fence, walls, plants, leaves, vines, moss, bricks, stone, animals, garbage can.
+fence, walls, plants, leaves, vines, weeds, moss, bricks, stone, animals.
